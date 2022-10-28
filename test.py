@@ -4,3 +4,6 @@ v=a+b
 
 print(v)
 
+print(a*b)
+print("Second Push")
+
